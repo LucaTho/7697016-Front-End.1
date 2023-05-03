@@ -2,6 +2,7 @@
     {
         "id": 1,
         "nom": "Ampoule LED",
+        "description":"Distance d’éclairage : 100 mètres !",
         "prix": 60,
         "categorie": "Optiques",
         "image": "images/ampoule-led.png"
